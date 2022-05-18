@@ -1,0 +1,31 @@
+.main-nav {
+    min-height: 120px;
+}
+
+.nav-log-text, .nav-log-text:hover {
+    color: #FFF;
+}
+
+.main-menu {
+    display: flex;
+    font-size: 30px;
+    width: 600px;
+    justify-content: space-around;
+}
+
+.main-menu a {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.main-menu a:hover {
+    color: #FFF;
+}
+
+.main-menu a.active {
+    color: #FFF;
+    font-weight: bold;
+}
+
+.nav-container {
+    max-width: 1140px;
+}
